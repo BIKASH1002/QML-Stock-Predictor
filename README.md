@@ -104,6 +104,10 @@ Evaluate performance using metrics: Mean Square Error (MSE), Mean Absolute Error
     </tr>
 </table>
 
+# Conclusion
+
+Though the knowledge of quantum computing and its algorithms are in development phase but it is also true that the idea of using it in prediction of stock holds promise. The error we achieved i.e., 1.9% might be less and hence certainly could be used for prediction of stock but this could be improved further if we could bring this error to less than 1% by optimising the algorithm. 
+
 # Credits
 
 **1) Dataset link:** https://www.kaggle.com/datasets/mattiuzc/stock-exchange-data
