@@ -36,7 +36,7 @@ The approach involves using Quantum Linear Regression models for predicting stoc
 
 Jupyter Notebook (for interactive development) or IBM notebook
 
-**Libraries:** numPy, pandas, matplotlib, scikit-learn, pywt, qiskit
+**Libraries:** numPy, pandas, matplotlib, scikit-learn, qiskit
 
 qiskit library need to be installed in order to execute quantum functions.
 
