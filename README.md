@@ -1,5 +1,7 @@
 # Haressing Quantum Computing for Stock Market Prediction
 
+<div  align = "justify">
+    
 # Overview
 
 This project explores the integration of Quantum Machine Learning (QML) to enhance stock market prediction accuracy. Quantum computing offers significant advantages over classical methods, particularly in handling complex, high-dimensional datasets. The research applies quantum regression models using Qiskit and Pennylane to predict stock prices, demonstrating the potential of quantum algorithms in financial forecasting.
@@ -47,6 +49,8 @@ qiskit library need to be installed in order to execute quantum functions.
 **2) Quantum Linear Regression Algorithm:** Processes the encoded quantum states to predict stock prices.
 
 **3) Simulator:** Simulates the quantum circuit using Qiskit, enabling visualization and analysis of performance metrics.
+
+</div>
 
 # Design
 
@@ -106,7 +110,9 @@ Evaluate performance using metrics: Mean Square Error (MSE), Mean Absolute Error
 
 # Conclusion
 
+<div  align = "justify">
 Though the knowledge of quantum computing and its algorithms are in development phase but it is also true that the idea of using it in prediction of stock holds promise. The error we achieved i.e., 1.9% might be less and hence certainly could be used for prediction of stock but this could be improved further if we could bring this error to less than 1% by optimising the algorithm. 
+</div>
 
 # Credits
 
