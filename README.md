@@ -1,4 +1,4 @@
-# Haressing Quantum Computing for Stock Market Prediction
+# Harnessing Quantum Computing for Stock Market Prediction
 
 <div  align = "justify">
     
